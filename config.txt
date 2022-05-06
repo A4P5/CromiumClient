@@ -5,12 +5,12 @@ DONT MAKE ANY CHANGES TO THE DOCUMENT EXCEPT VALUES!
    -   Binds
 
 wallhack = "c"
-aimbot = "null" - cant be changed yet due to beta!!
-antiflash = "null" - cant be changed yet due to beta!!
+bunnyjump = "l"
+antiflash = "i"
 display_program = "insert" - cant be changed yet due to beta!!
 
    -   Program
 
 console = "False" - cant be changed yet due to beta!!
-sounds = "False" - cant be changed yet due to beta!!
+cpu_usage_speed = "0.1" # aka delay time
 alpha = "0.7" - cant be changed yet due to beta!!
