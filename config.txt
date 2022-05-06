@@ -1,0 +1,16 @@
+DONT MAKE ANY CHANGES TO THE DOCUMENT EXCEPT VALUES!
+
+[--- CONFIGS ---]
+
+   -   Binds
+
+wallhack = "c"
+aimbot = "null" - cant be changed yet due to beta!!
+antiflash = "null" - cant be changed yet due to beta!!
+display_program = "insert" - cant be changed yet due to beta!!
+
+   -   Program
+
+console = "False" - cant be changed yet due to beta!!
+sounds = "False" - cant be changed yet due to beta!!
+alpha = "0.7" - cant be changed yet due to beta!!
