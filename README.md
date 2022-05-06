@@ -1,7 +1,7 @@
 # CromiumClient
 
 ------------------------------
--=- Cromium Client -=-
+-=- Cromium Client -=- v.2!
 ------------------------------
 
 To close program press insert+escape
