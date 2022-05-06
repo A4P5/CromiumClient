@@ -4,6 +4,8 @@
 -=- Cromium Client -=- v.2!
 ------------------------------
 
+CS:GO TOOL/SPLASHER
+
 To close program press insert+escape
 
 Developed by A4P5, and supported by IronBlade_20/Tordenskjold
